@@ -20,6 +20,8 @@ pip install djangorestframework-simplejwt
 pip install django-allauth
 pip install django-cors-headers
 pip install pillow
+pip install firebase-admin
+
 pip install django-geoposition
 pip install django-leaflet
 pip install django-channels
@@ -29,7 +31,6 @@ pip install geopy
 pip install reportlab
 pip install xlsxwriter
 
-pip install firebase-admin
 
 django-admin startproject inspection_administration_django
 cd inspection_administration_django
